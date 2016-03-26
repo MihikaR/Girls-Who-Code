@@ -1,7 +1,12 @@
 # Girls-Who-Code
 <html>
 
-<p>
+<h1>
 This repository was created for the San Jose Girls Who Code Club.
-<p/>
+<h1/>
+<h2> 
+I will also be making my gwc website here
+<h2/>
+
+
 <html/>
