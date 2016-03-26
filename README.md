@@ -1,5 +1,4 @@
 # Girls-Who-Code
-<html>
 
 <h1>
 This repository was created for the San Jose Girls Who Code Club.
@@ -9,4 +8,3 @@ I will also be making my gwc website here
 <h2/>
 
 
-<html/>
