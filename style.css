@@ -32,22 +32,22 @@ a {
   font-size: 15 px;
  
   /* unvisited link */
-  a:link { "http://wallpaperbeta.com/wallpaper_3840x2160/dark_forest_leaves_tree_trunks_nature_ultra_3840x2160_hd-wallpaper-36809.jpg";
+  a:link { "http://www.w3schools.com/js/js_functions.asp";
     color: azure;
   }
 
   /* visited link */
-  a:visited {
+  a:visited { "http://www.w3schools.com/js/js_functions.asp"
     color: blanchedalmond;
   }
 
   /* mouse over link */
-  a:hover {
+  a:hover { "http://www.w3schools.com/js/js_functions.asp"
     color: skyblue;
   }
 
   /* selected link */
-  a:active {
+  a:active { "http://www.w3schools.com/js/js_functions.asp"
     color: skyblue;
   }
 
