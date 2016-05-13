@@ -26,7 +26,7 @@ p.double {
   border-color: aqua;
 }
 
-.nav > a {
+.nav > div {
   color: azure;
   font-family: "Apple Chancery", sans-serif;
   letter-spacing: 2px;
