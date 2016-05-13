@@ -52,7 +52,7 @@ a {
     color: skyblue;
   }
 
-a {
+.nav > div {
  background: #00CCCC;
  float: right;
  padding: 10px;
