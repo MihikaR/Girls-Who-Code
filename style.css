@@ -25,22 +25,22 @@ body {
 
 
   /* unvisited link */
-  .nav > a:link { "http://wallpaperbeta.com/wallpaper_3840x2160/dark_forest_leaves_tree_trunks_nature_ultra_3840x2160_hd-wallpaper-36809.jpg";
+  .nav > div:link { "http://wallpaperbeta.com/wallpaper_3840x2160/dark_forest_leaves_tree_trunks_nature_ultra_3840x2160_hd-wallpaper-36809.jpg";
     color: white;
   }
 
   /* visited link */
-.nav >  a:visited {
+.nav >  div:visited {
     color: #99FFFF;
   }
 
   /* mouse over link */
-.nav  > a:hover {
+.nav  > div:hover {
     color: #E8E8E8;
   }
 
   /* selected link */
- .nav > a:active {
+ .nav > div:active {
     color: #660033;
   }
 
