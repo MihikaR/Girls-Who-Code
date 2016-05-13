@@ -45,6 +45,7 @@ body {
   }
 
 .nav > div {
+ text-align: center;
  background: #00CCCC;
  float: left;
  padding: 10px;
@@ -52,7 +53,6 @@ body {
  border-radius: 4px;
  display: inline-block; 
  text-decoration: none;
- text-align: center;
 
 }
 
