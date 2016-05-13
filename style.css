@@ -31,17 +31,17 @@ body {
 
   /* visited link */
 .nav >  a:visited {
-    color: blue;
+    color: #99FFFF;
   }
 
   /* mouse over link */
 .nav  > a:hover {
-    color: gray;
+    color: #E8E8E8;
   }
 
   /* selected link */
  .nav > a:active {
-    color: blanchedalmond;
+    color: #660033;
   }
 
 .nav > div {
