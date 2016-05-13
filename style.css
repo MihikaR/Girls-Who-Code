@@ -26,12 +26,12 @@ body {
 
   /* unvisited link */
   .nav > a:link { "http://wallpaperbeta.com/wallpaper_3840x2160/dark_forest_leaves_tree_trunks_nature_ultra_3840x2160_hd-wallpaper-36809.jpg";
-    color: azure;
+    color: white;
   }
 
   /* visited link */
 .nav >  a:visited {
-    color: skyblue;
+    color: blue;
   }
 
   /* mouse over link */
@@ -52,6 +52,7 @@ body {
  border-radius: 4px;
  display: inline-block; 
  text-decoration: none;
+
 }
 
 .nav > div:hover {
