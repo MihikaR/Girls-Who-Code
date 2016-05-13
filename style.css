@@ -24,6 +24,20 @@ body {
 
 
 
+
+.nav > div {
+ background: #00CCCC;
+ float: left;
+ padding: 10px;
+ border: 4px solid #660033;
+ border-radius: 4px;
+ display: inline-block; 
+ text-decoration: none;
+ text-align: center;
+
+}
+
+
   /* unvisited link */
   .nav > div:link { "http://wallpaperbeta.com/wallpaper_3840x2160/dark_forest_leaves_tree_trunks_nature_ultra_3840x2160_hd-wallpaper-36809.jpg";
     color: white;
@@ -43,19 +57,7 @@ body {
  .nav > div:active {
     color: #660033;
   }
-
-.nav > div {
- text-align: center;
- background: #00CCCC;
- float: left;
- padding: 10px;
- border: 4px solid #660033;
- border-radius: 4px;
- display: inline-block; 
- text-decoration: none;
-
-}
-
+  
 .nav > div:hover {
   background:#99FFFF;
   height 120%;
