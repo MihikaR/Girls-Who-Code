@@ -26,33 +26,33 @@ p.double {
   border-color: aqua;
 }
 
-a {
+.navbar_horizontal > a {
   color: azure;
   font-family: "Apple Chancery", sans-serif;
   letter-spacing: 2px;
   font-size: 15 px;
  
   /* unvisited link */
-  a:link { "http://wallpaperbeta.com/wallpaper_3840x2160/dark_forest_leaves_tree_trunks_nature_ultra_3840x2160_hd-wallpaper-36809.jpg";
+  .navbar_horizontal > a:link { "http://wallpaperbeta.com/wallpaper_3840x2160/dark_forest_leaves_tree_trunks_nature_ultra_3840x2160_hd-wallpaper-36809.jpg";
     color: azure;
   }
 
   /* visited link */
-  a:visited {
+.navbar_horizontal >  a:visited {
     color: blanchedalmond;
   }
 
   /* mouse over link */
-  a:hover {
+.navbar_horizontal  > a:hover {
     color: skyblue;
   }
 
   /* selected link */
-  a:active {
+ .navbar_horizontal > a:active {
     color: skyblue;
   }
 
-.nav > div {
+.navbar_horizontal > div {
  background: #00CCCC;
  float: right;
  padding: 10px;
@@ -60,7 +60,7 @@ a {
  border-radius: 4px;
 }
 
-.nav > div:hover {
+.navbar_horizontal > div:hover {
   background:#99FFFF;
   height 120%;
 }
@@ -71,20 +71,10 @@ body {
   margin: 0 auto;
 }
 
-.nav {
+.navbar_horizontal {
   margin: aut;
   text-align: center; 
 }
 
-a:link, a:visited {
-    background-color: #00FF66;
-    color: white;
-    padding: 14px 25px;
-    text-align: center; 
-    text-decoration: none;
-    display: inline-block;
-}
 
-a:hover, a:active {
-    background-color: blue;
 }
