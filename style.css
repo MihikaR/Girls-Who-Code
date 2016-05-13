@@ -26,19 +26,19 @@ p.double {
   border-color: aqua;
 }
 
-li > a {
+.nav > a {
   color: azure;
   font-family: "Apple Chancery", sans-serif;
   letter-spacing: 2px;
   font-size: 15 px;
  
   /* unvisited link */
-  li > a:link { "http://wallpaperbeta.com/wallpaper_3840x2160/dark_forest_leaves_tree_trunks_nature_ultra_3840x2160_hd-wallpaper-36809.jpg";
+  .nav > a:link { "http://wallpaperbeta.com/wallpaper_3840x2160/dark_forest_leaves_tree_trunks_nature_ultra_3840x2160_hd-wallpaper-36809.jpg";
     color: azure;
   }
 
   /* visited link */
-.navbar_horizontal >  a:visited {
+.nav >  a:visited {
     color: skyblue;
   }
 
