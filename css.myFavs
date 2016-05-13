@@ -1,0 +1,6 @@
+
+body{
+background-image: 
+url("https://www.google.ae/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwjI3Ju8mdjMAhUT8WMKHcToBhMQjBwIBA&url=http%3A%2F%2Fhdimagesnew.com%2Fwp-content%2Fuploads%2F2015%2F11%2FTumblr-Backgrounds-7.jpg&bvm=bv.122129774,d.eWE&psig=AFQjCNGZ_8HasB1LPVydV44058XTav6N6g&ust=1463267934154656");
+background-repeat: repeat;
+}
