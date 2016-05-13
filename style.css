@@ -39,17 +39,17 @@ p.double {
 
   /* visited link */
 .navbar_horizontal >  a:visited {
-    color: blanchedalmond;
+    color: skyblue;
   }
 
   /* mouse over link */
 .navbar_horizontal  > a:hover {
-    color: skyblue;
+    color: gray;
   }
 
   /* selected link */
  .navbar_horizontal > a:active {
-    color: skyblue;
+    color: blanchedalmond;
   }
 
 .navbar_horizontal > div {
