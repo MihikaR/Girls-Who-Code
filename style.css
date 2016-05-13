@@ -79,8 +79,8 @@ body {
   text-align: center; 
 }
 
-.center{
-  margin: auto;
+.center {
+  margin:0 auto;
   width: 60%;
   padding: 10px;
 }
