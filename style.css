@@ -2,6 +2,7 @@ h1 {
   color: azure;
   font-family: "Papyrus", sans-serif;
   font-size: 50px;
+  text-align: center;
   
   
 }
@@ -10,6 +11,7 @@ p {
   font-family: "Apple Chancery", sans-serif;
   font-size: 20px;
   letter-spacing: 2px;
+  text-align:center;
 }
 
 body {
