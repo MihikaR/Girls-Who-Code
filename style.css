@@ -6,14 +6,17 @@ h1 {
   
   
 }
-p {
+body {
   color: azure;
   font-family: "Apple Chancery", sans-serif;
   font-size: 20px;
   letter-spacing: 2px;
+  width: 800 px;
+  text-align: center;
+  margin: 0 auto;
 }
 
-body {
+background {
   background-image:
     url("http://wallpaperbeta.com/wallpaper_3840x2160/dark_forest_leaves_tree_trunks_nature_ultra_3840x2160_hd-wallpaper-36809.jpg");
   background-repeat: no-repeat;
@@ -64,14 +67,9 @@ a {
   height 120%;
 }
 
-body {
-  width: 800 px;
-  text-align: center;
-  margin: 0 auto;
-}
 
 .nav {
-  margin: aut;
+  margin: auto;
   text-align: center; 
 }
 
